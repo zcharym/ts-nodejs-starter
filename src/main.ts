@@ -1,1 +1,1 @@
-console.log(process.env);
+console.log('typescript nodejs template');
